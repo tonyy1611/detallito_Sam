@@ -1,0 +1,130 @@
+html,
+body {
+  position: relative;
+  height: 100%;
+}
+body {
+  background: #383838;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+.card {
+  position: relative;
+  background: #fff;
+  width: 400px;
+  height: 700px;
+  margin: 0 auto;
+  border-radius: 20px;
+}
+.card .content {
+  width: 400px;
+  padding: 30px;
+  box-sizing: border-box;
+}
+.card .sliderText {
+  background-color: #0f115e;
+  position: relative;
+  width: 100%;
+  height: 150px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 20px;
+  box-shadow: 3px 4px 5px #000;
+}
+.card .sliderText h1 {
+  color: #fff;
+  font: Arial;
+  font-size: 3em;
+}
+.swiper-slide {
+  width: 400px;
+}
+.swiper {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  padding: 10px;
+}
+.image1 {
+  border-radius: 50px;
+  justify-content: center;
+  align-items: center;
+  width: 335px;
+  height: 220px;
+}
+.image2 {
+  border-radius: 50px;
+  justify-content: center;
+  align-items: center;
+  width: 335px;
+  height: 320px;
+}
+.image3 {
+  border-radius: 50px;
+  justify-content: center;
+  align-items: center;
+  width: 335px;
+  height: 415px;
+}
+.image4 {
+  border-radius: 50px;
+  justify-content: center;
+  align-items: center;
+  width: 335px;
+  height: 174px;
+}
+.image5 {
+  border-radius: 50px;
+  justify-content: center;
+  align-items: center;
+  width: 335px;
+  height: 220px;
+}
+.image6 {
+  border-radius: 50px;
+  justify-content: center;
+  align-items: center;
+  width: 335px;
+  height: 415px;
+}
+.image7_1 {
+  border-radius: 50px;
+  justify-content: center;
+  align-items: center;
+  width: 335px;
+  height: 185px;
+}
+.image7_2 {
+  border-radius: 50px;
+  justify-content: center;
+  align-items: center;
+  width: 335px;
+  height: 185px;
+}
+.image8 {
+  border-radius: 50px;
+  justify-content: center;
+  align-items: center;
+  width: 335px;
+  height: 390px;
+}
+.image9 {
+  border-radius: 50px;
+  justify-content: center;
+  align-items: center;
+  width: 335px;
+  height: 300px;
+}
+.video {
+  border-radius: 50px;
+  justify-content: center;
+  align-items: center;
+  width: 335px;
+  height: 460px;
+}
